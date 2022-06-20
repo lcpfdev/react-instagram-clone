@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.imageContainer {
+  width: 50vw;
+}
